@@ -1,0 +1,147 @@
+@media (min-width: 993px) and (max-width: 1300px){
+    .s3{
+        display: none;
+    }
+    .cd-intro #h4{
+        width: 100%;
+    }
+    #h2{
+        font-size: 80px;
+    }
+    #h3{
+        right: 2vw;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+    .s2{
+        display: none;
+    }
+    .s3{
+        display: none;
+    }
+    .s1{
+        width: 100%;
+    }
+    .s1 .img1{
+        margin-left: 3%;
+    }
+    #i1{
+        display: block;
+        position: relative;
+        left: -5%;
+    }
+    .cd-intro #h4{
+        width: 100%;
+        font-size: 75px;
+     }
+     #h1{
+        top: -65px;
+     }
+     .btn1{
+        top: -55px;
+     }
+    #h2{
+        font-size: 55px;
+    }
+    #h3{
+        right: 1vw;
+    }
+    #btn4{
+        left: 30vw;
+    }
+    .s5{
+       text-align: center;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+ .s2{
+    display: none;
+ }   
+ .s3{
+    display: none;
+ }
+ .s1{
+    width: 100%;
+ }
+ .s1 .img1{
+    margin-left: 3%;
+}
+ #i1{
+    position: relative;
+    left: -5%;
+    display: block;
+ }
+ .cd-intro #h2{
+    width: 43%;
+    font-size: 45px;
+    position: relative;
+    left: 25vw;
+ }
+ #h1{
+    width: 50%;
+    top: -65px;
+    left: 32vw;
+ }
+ .btn1{
+    top: -55px;
+    left: 37vw;
+ }
+ #section1{
+    bottom: 16vh;
+ }
+ .btn2{
+    width: 30vw;
+ }
+ .s5{
+    text-align: center;
+ }
+}
+
+@media (min-width: 0px) and (max-width: 576px){
+    .s1{
+        width: 100%;
+    }
+    .s1 .img1{
+        margin-left: 35%;
+    }
+    .s2{
+        display: none;
+    }
+    .s3{
+        display: none;
+    }
+    #i1{
+        display: block;
+        position: relative;
+        left: -5%;
+    }
+    .cd-intro h1{
+        font-size: 35px;
+        position: relative;
+        left: 10vw;
+    }
+    #h1{
+        width: 50%;
+        font-size: 18px;
+        top: -50px;
+        left: 30vw;
+    }
+    .btn1{
+        height: 30px;
+        width: 120px;
+        font-size: 14px;
+        top: -35px;
+        left: 33vw;
+    }
+    #section1{
+       bottom: 16vh;
+    }
+    .btn2{
+        width: 30vw;
+     }
+     .s5{
+        text-align: center;
+     }
+}
